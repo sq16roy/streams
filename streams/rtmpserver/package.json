@@ -1,0 +1,22 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sq16roy/streams.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sq16roy/streams/issues"
+  },
+  "homepage": "https://github.com/sq16roy/streams#readme",
+  "dependencies": {
+    "node-media-server": "^2.2.2"
+  }
+}
