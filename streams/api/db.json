@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "aasasas",
+      "description": "aaaasaassss",
+      "id": 1
+    },
+    {
+      "title": "roy",
+      "description": "test",
+      "id": 2
+    },
+    {
+      "title": "my stream",
+      "description": "test roy",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "zzzzz",
+      "description": "zzzzzz",
+      "userId": "108524595065718607479",
+      "id": 5
+    },
+    {
+      "description": "asas",
+      "title": "asasas",
+      "userId": "108524595065718607479",
+      "id": 6
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "userId": "108524595065718607479",
+      "id": 7
+    }
+  ]
+}
